@@ -16,7 +16,7 @@ Export application to retrieve documents from FileNet Content Engine based on pr
 
 ## Installation
 Unzip the contents of the zip file into a local directory.
-For Windows based servers please use C:\ drive to use the application with default setting.	
+For Windows based servers please use C:\ drive to use the application with default settings.	
 
 Configuration of the application is stored in application.properties. 
 A sample file with description for each property is included in the package. 
